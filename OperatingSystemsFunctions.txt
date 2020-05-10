@@ -1,3 +1,7 @@
 iOS is an operating system made for Apple devices. 
 It stands for iPhone operating sysyems. 
 It is what runs on the iPhone, iPad, Apple TV, and Macbooks. 
+
+Microsoft windows, mostly know as Windows,is a family of operating systems.
+It was made to run personal computers. 
+It featured the first graphical user(GUI) interface for IBM compatible PCs.
