@@ -5,3 +5,8 @@ It is what runs on the iPhone, iPad, Apple TV, and Macbooks.
 Microsoft windows, mostly know as Windows,is a family of operating systems.
 It was made to run personal computers. 
 It featured the first graphical user(GUI) interface for IBM compatible PCs.
+
+Linux is the most used open source operating system.
+It is a software that is under all the other software on a computer. 
+It takes all the requests from other software and sends it to the computer's hardware. 
+
